@@ -262,3 +262,88 @@ case 5:
  return 0;
 
 }
+
+// Menu
+// 1. Create
+// 2. Disp
+// 3. Search
+// 4. Update
+// 5. Delete
+// Enter Your Choice: 1
+
+// Enter Keyword: apple
+// Enter Meaning: a round fruit with red or green skin and white flesh that is sweet and juicy to eat.
+
+// Do you want to add more (y=1/n=0): 1
+
+// Enter Keyword: computer
+// Enter Meaning: an electronic device that processes data, performs tasks, and executes programs, consisting of hardware and software components.
+
+// Do you want to add more (y=1/n=0): 0
+
+// Menu
+// 1. Create
+// 2. Disp
+// 3. Search
+// 4. Update
+// 5. Delete
+// Enter Your Choice: 2
+
+// Dictionary Contents:
+// Key Word: apple      Meaning: a round fruit with red or green skin and white flesh that is sweet and juicy to eat.
+// Key Word: computer   Meaning: an electronic device that processes data, performs tasks, and executes programs, consisting of hardware and software components.
+
+// Menu
+// 1. Create
+// 2. Disp
+// 3. Search
+// 4. Update
+// 5. Delete
+// Enter Your Choice: 3
+
+// Enter Keyword which you want to search: apple
+// No of Comparisons: 1
+// Keyword Found
+
+// Menu
+// 1. Create
+// 2. Disp
+// 3. Search
+// 4. Update
+// 5. Delete
+// Enter Your Choice: 4
+
+// Enter Keyword which meaning you want to update: apple
+// Enter New Meaning of Keyword apple: a fruit with various edible parts that grow around the core, including the seeds, flesh, and skin.
+
+// Meaning Updated
+
+// Menu
+// 1. Create
+// 2. Disp
+// 3. Search
+// 4. Update
+// 5. Delete
+// Enter Your Choice: 5
+
+// Enter Keyword which you want to delete: apple
+
+// Menu
+// 1. Create
+// 2. Disp
+// 3. Search
+// 4. Update
+// 5. Delete
+// Enter Your Choice: 2
+
+// Dictionary Contents:
+// Key Word: computer   Meaning: an electronic device that processes data, performs tasks, and executes programs, consisting of hardware and software components.
+
+// Menu
+// 1. Create
+// 2. Disp
+// 3. Search
+// 4. Update
+// 5. Delete
+// Enter Your Choice: 6
+
